@@ -11,8 +11,8 @@
 - MSSQL Database
 
 ## Languages
-- English
-- Turkish
+ English
+ Turkish
 
 ###### .
 
