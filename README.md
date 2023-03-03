@@ -6,6 +6,14 @@
 #### 4- **Admin Page**: for the manager/admin to manage everything about the workers.
 ###### .
 
+## Tools Used
+- Guna Framework
+- MSSQL Database
+
+## Languages
+- English
+- Turkish
+
 ###### .
 
 ###### .
