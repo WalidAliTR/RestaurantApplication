@@ -12,7 +12,6 @@
 
 ## Languages
 - English
-- Turkish
 
 ###### .
 
