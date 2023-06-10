@@ -1,4 +1,4 @@
-# Introducing My Restaurant Project:-
+# Introducing My Restaurant Application:-
 ### It's **C# Restaurant** App that used by the cashier to take customer orders. which includes:- 
 #### 1- **Editing the Menu**: to change the prices/names, add a new dish/category, or delete them.
 #### 2- **Make Orders**: to take customer orders.
